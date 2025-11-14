@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kiisa Angela</h1>
-<h3 align="center">I'm a Front End Developer with a passion for Data Analysis</h3>
+<h3 align="center">I'm a passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on **Front End Projects**
-
-- 🌱 I’m currently learning **AI and Database Programming**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
 - 📫 How to reach me **kiisaangela8@gmail.com**
-
-- ⚡ Fun fact **I love to customize.**
 
 
 <h3 align="left">Languages and Tools:</h3>
